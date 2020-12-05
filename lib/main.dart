@@ -23,10 +23,10 @@ class _SplashWidgetState extends State<SplashWidget> {
       seconds: 5,
       navigateAfterSeconds: new DicePage(),
       title: new Text(
-        'FA17-BSE-008 (Farman Ali)',
+        'FA17-BSE-084 ( Muahmmad Rziwan)',
         style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 20.0),
       ),
-      image: Image.asset('assets/images/farman.jpg'),
+      image: Image.asset('assets/images/Rizwan.jpg'),
       photoSize: 100,
       backgroundColor: Colors.white,
       loaderColor: Colors.red,
